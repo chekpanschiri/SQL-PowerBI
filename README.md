@@ -1,4 +1,4 @@
-# SQL and Power BI porject
+# SQL and Power BI project
 
 
 For this project, I connected the AdventureWorks databases (link below) into MSSMS
